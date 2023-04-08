@@ -1,2 +1,2 @@
 # PowerBI_Projects
-Collection of PowerBi dashboards I have created.
+An interactive power BI dashboard
